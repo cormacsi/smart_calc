@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>credit.png</file>
+        <file>debit.png</file>
+        <file>sinus.png</file>
+        <file>calculator.ico</file>
+        <file>calculator.icns</file>
+        <file>backspace.png</file>
+        <file>bin.png</file>
+        <file>calculator.png</file>
+        <file>reload.png</file>
+    </qresource>
+</RCC>
